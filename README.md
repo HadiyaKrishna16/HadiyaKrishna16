@@ -4,6 +4,9 @@
 <h3 align="center">🚀 MERN Stack Developer | 💡 Data Viz Explorer | 🌐 Tech Enthusiast from India</h3>
 
 <p align="center">
+  <a href="https://github.com/HadiyaKrishna16">
+    <img src="https://komarev.com/ghpvc/?username=HadiyaKrishna16&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
   <a href="https://github.com/HadiyaKrishna16"><img src="https://img.shields.io/github/followers/HadiyaKrishna16?label=Follow&style=social" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/krishna-hadiya-873905274"><img src="https://img.shields.io/badge/LinkedIn-Hadiya%20Krishna-blue?logo=linkedin&style=social" alt="LinkedIn" /></a>
 </p>
