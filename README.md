@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 - 🔨 Working on: **MERN Recipe App** 🍲  
-- 🌱 Learning: **MERN Stack | C++ DSA | Data Visualization with JS**  
+- 🌱 Learning: **MERN Stack | C++ DSA | Data Visualization with python**  
 - 💬 Ask me about: `Full Stack Dev`, `React`, `MongoDB`, `Node.js`, `PHP`, `Python`, `Java`  
 - 💼 Open to: **Internships**, **Collaborations**, and **Open Source Contributions**  
 - 📫 Reach me at: `krishnahadiya2005@gmail.com`  
