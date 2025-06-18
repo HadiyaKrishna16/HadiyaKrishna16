@@ -33,7 +33,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HadiyaKrishna16&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HadiyaKrishna16&theme=tokyonight&border_radius=10&hide_border=false" width="48%" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadiyaKrishna16&layout=compact&theme=tokyonight&border_radius=10" width="40%" />
 </p>
